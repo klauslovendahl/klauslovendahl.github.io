@@ -1,12 +1,3 @@
-body {	margin-top:10px;
-	margin-bottom:0px;
-	margin-right:25px;
-	margin-left:15px;
-	background-color: #FFFFFF
-        font: 14px courier;
-}
-
-
 a.title:link 	{
 		font: 23px/.3 courier;
 		color:#000000;
@@ -162,6 +153,8 @@ a.bold:active 	{
 		text-decoration: none;
 		font-weight:bold;
 		}
+
+body {font: 14px courier;color: #000000;}
 
 p {font: 14px courier;color: #000000;}
 em {font: 14px courier;color: #000000;line-height: 1.4em; font-weight: bold;}
