@@ -163,7 +163,7 @@ a.bold:active 	{
 		font-weight:bold;
 		}
 
-p {font: 14px courier; color: #000000}
+p {font: 14px courier; color: #000000;}
 em {font: 14px courier;color: #000000;line-height: 1.4em; font-weight: bold;}
 h1 {font: 19px courier;color: #000000;line-height: 1.4em; font-weight: bold;}
 td,span,div,.mainText {font: 14px/1.5 courier new;color: #000000;line-height: 1.4em;}
