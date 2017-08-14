@@ -21,7 +21,7 @@ a.title:hover 	{
 		color:#333333;
 		text-decoration: none;
 		}
-a.title:active 	{	
+a.title:active 	{
 		color:#333333;
 		text-decoration: none;
 		}
@@ -40,7 +40,7 @@ a.titleloc:hover 	{
 		color:#999966;
 		text-decoration: none;
 		}
-a.titleloc:active 	{	
+a.titleloc:active 	{
 		color:#999966;
 		text-decoration: none;
 		}
@@ -59,7 +59,7 @@ a.submenu:hover 	{
 		color:#999966;
 		text-decoration: none;
 		}
-a.submenu:active 	{	
+a.submenu:active 	{
 		color:#999966;
 		text-decoration: none;
 		}
@@ -78,7 +78,7 @@ a.menu:hover 	{
 		color:#999966;
 		text-decoration: none;
 		}
-a.menu:active 	{	
+a.menu:active 	{
 		color:#999966;
 		text-decoration: none;
 		}
@@ -97,7 +97,7 @@ a.loc:hover 	{
 		color:#999966;
 		text-decoration: none;
 		}
-a.loc:active 	{	
+a.loc:active 	{
 		color:#999966;
 		text-decoration: none;
 		}
@@ -116,7 +116,7 @@ a.inline:hover 	{
 		color:#999966;
 		text-decoration: underline;
 		}
-a.inline:active 	{	
+a.inline:active 	{
 		color:#999966;
 		text-decoration: underline;
 		}
@@ -157,14 +157,14 @@ a.bold:hover 	{
 		text-decoration: none;
 		font-weight:bold;
 		}
-a.bold:active 	{	
+a.bold:active 	{
 		color:#999966;
 		text-decoration: none;
 		font-weight:bold;
 		}
 
 
-p.caption {font: 16px courier;color: #000000; 
+p {font: 16px courier;color: #000000; 
            margin-top:20px;
 	   margin-bottom:35px;
 	   margin-right:0px;
@@ -182,4 +182,3 @@ li {margin-bottom:1em}
 .left {position:fixed; margin-right:15px}
 #alumni {width:800px; margin-left:27px}
 .alumni {width:100px; font-size:70%; text-align:center; float:left; margin-right:60px; margin-bottom:40px}
-
